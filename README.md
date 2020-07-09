@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Dave.
+### Hi there 👋 , I'm Dave.
 
 :briefcase:
 
@@ -14,7 +14,7 @@ I write a tech blog at [hackerrdave.com](https://hackerrdave.com).
 
 :bird:
 
-I tweet at [@hackerrdave](https://twitter.com/hackerrdave)
+I tweet [@hackerrdave](https://twitter.com/hackerrdave)
 
 :question:
 
