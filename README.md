@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋  I'm Dave.
 
-<!--
-**hackerrdave/hackerrdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:briefcase:
 
-Here are some ideas to get you started:
+I work at [Galileo Health](https://galileohealth.com) building serverless cloud infrastructure for the modern Primary Healthcare Provider _[Join Us!](https://boards.greenhouse.io/galileo)_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:building_construction:
+
+I build apps with Python, JavaScript, Docker, AWS.
+
+:writing_hand:
+
+I write a tech blog at [hackerrdave.com](https://hackerrdave.com).
+
+:bird:
+
+I tweet at [@hackerrdave](https://twitter.com/hackerrdave)
+
+:question:
+
+I answer questions on [Stack Overflow](https://stackoverflow.com/users/2692595/hackerrdave)
