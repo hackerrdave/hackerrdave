@@ -2,7 +2,7 @@
 
 :briefcase:
 
-I work at [Galileo Health](https://galileohealth.com) building serverless cloud infrastructure for the modern Primary Healthcare Provider _[Join Us!](https://boards.greenhouse.io/galileo)_
+I work at [Galileo Health](https://galileohealth.com) building serverless cloud infrastructure for the modern Primary Healthcare Provider _[Join Us!](https://careers.galileo.io/)_
 
 :building_construction:
 
