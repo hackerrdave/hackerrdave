@@ -1,9 +1,5 @@
 ### Hi there 👋 , I'm Dave.
 
-:briefcase:
-
-I work at [Galileo Health](https://galileohealth.com) building serverless cloud infrastructure for the modern Primary Healthcare Provider _[Join Us!](https://careers.galileo.io/)_
-
 :building_construction:
 
 I build apps with Python, JavaScript, Docker, AWS.
