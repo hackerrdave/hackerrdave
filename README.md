@@ -2,7 +2,7 @@
 
 :building_construction:
 
-I build apps with Python, JavaScript, Docker, AWS.
+I build apps with Python, JavaScript, Docker, AWS + CDK(TF).
 
 :writing_hand:
 
